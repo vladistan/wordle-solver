@@ -1,9 +1,9 @@
 # My Wordle Solver
 
-<a href=\"https://colab.research.google.com/github/vladistan/wordle-solver/blob/main/SolveWordle.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>   
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vladistan/wordle-solver/main?labpath=SolveWordle.ipynb)
-   
+   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vladistan/wordle-solver/blob/main/SolveWordle.ipynb)
+  
 
 Looks like the `Wordle` game has taken the world by the storm.  Here is my contribution to this madness.  This interactive notebook provides the solver that comes up with the next best choice to use as a guess word.
 
