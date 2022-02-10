@@ -2,7 +2,7 @@
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vladistan/wordle-solver/main?labpath=SolveWordle.ipynb)
-   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vladistan/wordle-solver/blob/main/SolveWordle.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)] (https://www.kaggle.com/vladistan1/my-wordle-solver)
+   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vladistan/wordle-solver/blob/main/SolveWordle.ipynb)  [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/vladistan1/my-wordle-solver)
 
 
   
